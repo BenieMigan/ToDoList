@@ -21,7 +21,7 @@ Une application Todo List moderne réalisée avec React et Tailwind CSS.
 
 ## ✅ Marquer une tâche terminée
 
-![Terminé](src/assets/terminé.png)
+![Terminé](src/assets/terminer.png)
 
 
 ---

@@ -15,7 +15,7 @@ Une application Todo List moderne réalisée avec React et Tailwind CSS.
 ## ➕ Ajouter une tâche
 
 ![Ajouter](src/assets/ajouter.PNG)
-[Ajouter](src/assets/add.PNG)
+[Add](src/assets/add.PNG)
 
 ---
 
